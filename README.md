@@ -10,8 +10,8 @@
   - NodeJs
   - C# & .Net
   - PHP/ Laravel
-    -ACL;
-    -Multi-tenancy;
+    - ACL;
+    - Multi-tenancy;
 
 - ⚡ Fun fact **I love going out to walk**
 
