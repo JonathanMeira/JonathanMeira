@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jonathan-wanderer-castilho-meira-085b99198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-wanderer-castilho-meira-085b99198" height="30" width="40" /></a>
 <a href="https://fb.com/jonathan.meira.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan.meira.37" height="30" width="40" /></a>
-<a href="https://instagram.com/jonathanmeira12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathanmeira12" height="30" width="40" /></a>
+<a href="https://instagram.com/jonathan__meira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathan__meira" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
