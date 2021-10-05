@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jonathan Meira - aka Jack</h1>
-<h3 align="center">I'm a IT student, and a data lover</h3>
+<h3 align="center">I'm a IT student</h3>
 
 - 📙  I’m currently learning everything related to Back-end logic, and that includes Functional Programming paradign
 
