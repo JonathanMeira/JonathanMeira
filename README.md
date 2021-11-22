@@ -1,17 +1,16 @@
 <h1 align="center">Hi there, I'm Jonathan Meira - aka Jack</h1>
-<h3 align="center">I'm a IT student</h3>
+<h3 align="center">I'm a IT student and I.T Intern at IntellTech</h3>
 
-- 📙  I’m currently learning everything related to Back-end logic, and that includes Functional Programming paradign
+- 📙  I’m currently learning a lot of things🤔.
 
 - 👀 I’m looking to collaborate with other Back-end related projects
 
 - 🥅 My current goals  include learn:
-  - Elixir/ PHX
-  - NodeJs
   - C# & .Net
+  - Typescript
   - PHP/ Laravel
     - ACL;
-    - Multi-tenancy;
+    - Multi-tenancy.
 
 - ⚡ Fun fact **I love going out to walk**
 
