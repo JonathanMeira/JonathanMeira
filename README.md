@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jonathan Meira - aka Jack</h1>
 <h3 align="center">I'm a IT student and I.T Intern at IntellTech</h3>
 
-- 📙  I’m currently learning a lot of things🤔.
+- 📙  I’m currently learning a lot 🤔.
 
 - 👀 I’m looking to collaborate with other Back-end related projects
 
