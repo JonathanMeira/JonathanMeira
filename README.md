@@ -8,9 +8,8 @@
 - 🥅 My current goals  include learn:
   - C# & .Net
   - Typescript
-  - PHP/ Laravel
-    - ACL;
-    - Multi-tenancy.
+  - Akka.NET
+  - DDD, TDD, etc...
 
 - ⚡ Fun fact **I love going out to walk**
 
