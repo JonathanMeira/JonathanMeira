@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jonathan Meira</h1>
-<h3 align="center">I'm a Data Science Student and Software Developer at IntellTech</h3>
+<h3 align="center">I'm a Data Science Student and Software Analyst at IntellTech</h3>
 
 - 🌱 I’m currently learning:
   - Akka.NET:
