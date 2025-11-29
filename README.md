@@ -1,14 +1,7 @@
 <h1 align="center">Hi there, I'm Jonathan Meira</h1>
-<h3 align="center">I'm a Data Science Student and Software Analyst at IntellTech</h3>
+<h3 align="center">I'm a Data Science Student and Senior Software Developer at Autoglass </h3>
 
-- 🌱 I’m currently learning:
-  - Akka.NET:
-    - Streams;
-    - Supervision;
-    - Persistence;
-  - CQRS;
-  - TDD;
-
+I’m passionate about Reactive Programming, music and I'm currently reading old programming books.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
